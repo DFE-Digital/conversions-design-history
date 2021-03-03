@@ -14,7 +14,15 @@ const domain = 'http://localhost:3000'
  * ]
  */
 const paths = [
-  { title: 'Index page', path: '/' }
+  { title: 'Projects page', path: '/index'},
+  { title: 'Task list page', path: '/task_list1'},
+  { title: 'Project overview summary page', path: '/overview/summary1'},
+  { title: 'Set HTB date task', path: '/overview/set-htb'},
+  { title: 'Write rationale', path: '/rationale/project-rationale'},
+  { title: 'Pupil forcasts (reference only)', path: '/pupil-forecasts/school-pupil-forecasts'},
+  { title: 'Application form', path: '/related/application'},
+  { title: 'Key dates', path: '/related/dates'},
+  { title: 'Notes', path: '/related/notes'}
 ]
 
 /*
