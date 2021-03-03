@@ -9,6 +9,12 @@ related:
   - text: Glossary
     href: glossary
 
+Prototype:
+  items:
+  - text: Prototype
+    href: https://academy-conversions.herokuapp.com
+
+
 pagination:
   data: collections.all
   reverse: true
