@@ -4,6 +4,8 @@ title: User needs
 ---
 
 # Project leads
+## Goal
+**As a project lead I need to keep track of my teams's woerk So applications can progress and aren't delayed.**
 ## PL1
 **As a project lead (PL)I need to be able to view and manage all of my conversion tasks so I can manage my time.**
 
@@ -134,7 +136,47 @@ As a project lead I need to know where I need to go for further information if I
 As a project lead I need to make sure I don’t miss anything?
 
 ### PL8.03
-As a project lead I need to know what guidance policy has changed
+As a project lead I need to know what guidance policy has changed.
 
 ### PL8.04
-As a project lead I need to know where to go for help if I'm stuck
+As a project lead I need to know where to go for help if I'm stuck.
+
+# Team leads
+## Goal
+**As a team lead I need to keep track of my teams work so applications can progress and aren't delayed.**
+
+## TL1
+As a team lead I need to balance resource and skills / knowledge of teamso the right PL is involved in the right work.
+
+### TL1.01
+As a team lead I need to identify if application requires a particular skill set so I can choose the appropriate PL to manage the Application.
+
+### TL1.02
+As a team lead I need to find a project lead who has capacity to process the Application so PLs are not overworked.
+
+### TL1.03
+As a team lead I need to find a project lead who has the skills / experience most suitable to process this particular application.
+
+### TL1.04
+As a team lead I need to be confident that the application stands the best chance of success - right PL / skills.
+
+### TL1.05
+As a team lead I need to track application submissions (and other data)	I can spend more time assessing applications and estimate resources earlier.
+
+### TL1.06
+As a team lead I need to be aware of when data has been changed or updated about a local trust or about a school opening.
+
+### TL1.06
+As a team lead I need to know all applications are progressing (or not)	I can monitor / report / unblock.
+
+## TL2
+**As a team lead I need to know all applications are progressing (or not)	I can monitor / report / unblock.**
+
+## TL3
+**As a team lead I need to ensure the quality of work / data / evaluation 	the application is not delayed.**
+
+### TL3.01
+As a team lead I need to be confident that the application stands the best chance of success (has right data?) so the Application is not delayed.
+
+## TL4
+**As a team lead I need to be know who needs help	I can help / unblock.**
