@@ -22,8 +22,8 @@ title = title.charAt(0).toUpperCase() + title.slice(1)
 
 const datestamp = DateTime.local().toFormat('yyyy-MM-dd')
 
-const imageDirectory = `app/images/${directoryName}`
-const postDirectory = `app/posts/${directoryName}`.replace('/' + deepestDirectory, '')
+const imageDirectory = `app/images/apply-to-become-academy/${directoryName}`
+const postDirectory = `app/posts/apply-to-become-academy/${directoryName}`.replace('/' + deepestDirectory, '')
 
 const paths = []
 
