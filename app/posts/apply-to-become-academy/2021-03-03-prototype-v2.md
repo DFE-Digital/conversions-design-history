@@ -2,6 +2,11 @@
 title: Prototype version 2 research and changes
 description: Our prorotype has changed significantly due to peer reviews, user testing, increased knowledge and a move to a more focused MVP.
 date: 2021-03-03
+eleventyComputed:
+  eleventyNavigation:
+    key: "{{ title }}"
+    title: "{{ title }}"
+    parent: Apply to Become an Academy
 ---
 ### Date the work was done
 February 2021

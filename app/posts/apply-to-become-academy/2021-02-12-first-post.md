@@ -2,6 +2,11 @@
 title: Apply to become an academy first prototype
 description: Our first design based on user needs, our findings from private beta and implementation of GDS patterns.
 date: 2021-02-12
+eleventyComputed:
+  eleventyNavigation:
+    key: "{{ title }}"
+    title: "{{ title }}"
+    parent: Apply to Become an Academy
 ---
 ### Date the work was done
 January 2021
