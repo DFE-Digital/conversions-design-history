@@ -1,5 +1,5 @@
 ---
-title: Prototype version 2 research and changes
+title: Pre HTB prototype v1 findings and changes
 description: Our prorotype has changed significantly due to peer reviews, user testing, increased knowledge and a move to a more focused MVP.
 date: 2021-03-03
 eleventyComputed:
@@ -54,11 +54,11 @@ For this round of research, we tested with three users who had experience as pro
 -	Teams often use trackers that outline a list of activities and dates they need to work towards.
 -	Users wouldn’t want anything that means tasks would be duplicated with other systems.
 
-## Design
+## Designing a v2 prototype
 
 The second version of the prototype started as another static Figma file. This click-through allowed us to quickly update and explain to the team our new thoughts and learnings. 
 
-Feeling more confident that our approach more closely met the needs of our users, we moved to a HTML prototype using the GOV.UK prototyping kit.
+Feeling more confident that our approach more closely met the needs of our users, we moved to a HTML prototype using the GOVUK prototyping kit.
 
 The HTML prototype will give our users a more natural environment in which to explore our service and in-turn give us more opportunities to get detailed feedback on the service we are producing.
 
