@@ -1,5 +1,5 @@
 ---
-title: Apply to become an academy first prototype
+title: Pre HTB prototype v1
 description: Our first design based on user needs, our findings from private beta and implementation of GDS patterns.
 date: 2021-02-12
 eleventyComputed:
@@ -13,11 +13,12 @@ January 2021
 
 ## Introduction
 The end to end Apply to become an Academy service will manage the whole journey for a school converting to an academy, from the initial application through to the point at which the academy opens. In June 2020 we released the ‘Apply to become an Academy’ digital application service on GOV.UK.
-This project focuses on the internal service, the service that will support DfE delivery officers mange the project from application, through Headteacher Board to academy opening.
+
+This project focuses on the internal service, the service that will support DfE project leads mange the project from application, through Headteacher Board to academy opening.
 
 ## The internal service
 The internal service has been built using Microsoft Dynamics and had been in Private Beta for some time. Usability testing was conducted on an initial working product this testing followed the progress of several users through the process. The research concluded that there were a number of issues with the service, the most impactful included:
--	Delivery officers [users] felt unable to use the service to produce the documents for Headteacher Board due to problems they experienced. 
+-	Project jeads [users] felt unable to use the service to produce the documents for Headteacher Board due to problems they experienced. 
 -	Some of the key navigational and workflow issues experienced during private beta were also evidenced during alpha. Although changes had been implemented to help solve these issues before launching beta, they were not sufficient to overcome the problems.
 
 To address the issues encountered with the private beta system a technical investigation, which was completed at the end of January by another team, determined that the best approach for this service would be to use the GDS design kit to create a bespoke user interface. This would allow users to interact with an accessible and consistent UI.
