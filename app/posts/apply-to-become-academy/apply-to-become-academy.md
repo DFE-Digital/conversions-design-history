@@ -14,6 +14,8 @@ related:
     href: /apply-to-become-academy/user-needs/user-needs
   - text: Glossary
     href: /apply-to-become-academy/glossary-list/glossary-full-list
+  - text: Go back to all SDD design histories
+    href: https://sdd-design-history.netlify.app/
   
 pagination:
   data: collections.apply-to-become-academy
