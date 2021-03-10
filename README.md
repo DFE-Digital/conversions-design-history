@@ -1,8 +1,8 @@
 # Design history for GOV.UK services
 
-A place for you to document your GOV.UK service designs.
+A place to document GOV.UK service designs. The Apply to Become an Academy Design History can be found below:
 
-<https://design-history.herokuapp.com>
+<https://conversions-design-history.netlify.app/>
 
 ## Purpose of this project
 
