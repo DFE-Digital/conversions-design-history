@@ -1,5 +1,5 @@
 ---
-title: Pre HTB prototype v1 findings and changes
+title: Pre HTB prototype version 1 findings and changes
 description: Our prorotype has changed significantly due to peer reviews, user testing, increased knowledge and a move to a more focused MVP.
 date: 2021-03-03
 eleventyComputed:
