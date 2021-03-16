@@ -62,10 +62,10 @@ Get information about schools (GIAS)
 Headteacher board (HTB)
 : Headteacher boards advise the regional schools commissioner (RSC) on decisions about conversions, transfers and significant changes. They consist of a group of people with expereince in governing and running schools and academies.
 
-HTB (headteacher board) template
+Headteacher board template
 : This is a template the delivery officers need to fill out and take to a HTB meeting. The infomation they out into these templates is about the school and the trust and why the reason for the conversion. They will also include any risks and issues to the conversion so that the HTB can make the right decision about if the school should become an academy.
 
-Headteacher board (HTB) papers or documents
+Headteacher board papers or documents
 : Once the HTB template is signed off, the HTB secretariat will prepare HTB papers to go to the HTB meeting. These can include the HTB template, a trust template and an academy order.
 
 ## K
@@ -97,8 +97,8 @@ MAT or sponsor template
 
 ## P
 
-Pre and post HTB
-: There are two stages to our conversion service. Pre HTB is everything that happens from when the school sends in their application form up until the HTB meeting. 
+Pre and post headteacher board (HTB)
+: There are two stages to our conversion service. Pre HTB is everything that happens from when the school sends in their application form up until the HTB meeting.
 
 Post HTB is everything that happens from when the conversion gets approved at HTB up until when the school converts to an academy. The whole process can take up to 6 months.
 
