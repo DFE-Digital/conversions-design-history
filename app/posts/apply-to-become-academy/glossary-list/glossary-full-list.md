@@ -2,7 +2,7 @@
 tags: false
 layout: post
 title: Glossary
-description: consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation
+description: A collection of terms commonly used across the conversions service.
 eleventyComputed:
   eleventyNavigation:
     key: "{{ title }}"
@@ -18,47 +18,55 @@ Academy trust (AT)
 : An academt trust establishes and operates academy schools and free schools
 
 Articles of association
-: Permission to run limited courses
+: Articles of association set out the charitable purpose of the trust and its governance structure. This includes information about:
 
-Articles Order (AO)
+- what the trust exisits to do
+- appointing and removing trust members
+- establishing committees and local governing bodies
+
+The articles also provide a framework for trusts to act within company and charity law.
+
+Articles order (AO)
 : A document that the Department for Education gives to a school to signify that the DfE gives its consent for the school to convert to an academy.
 
 ## D
 
 DaRT
-: A training programme providers create for candidates to apply to.
+: DaRT is a system that academy and mainted schools directorate (AMSD) caseworkers use to manage academy schools and trusts. They will record any concerns like financial or governance concerns on this system. It is due to be decommissioned soon.
 
-Delivery Officer
+Delivery officer
 : Delivery officers are the main users for the conversion internal service. They handle the internal applications for schools converting to academies, academies transfering to another trust and significant change applications. They are the lead contact for schools and trusts throughout the conversion process. They can also sometimes be called 'Project leads' but this is an old term.
 
 Dynamics 365
-: A code used to identify courses (unique to a provider).
+: Dynamics 365 by Microsoft is the technology to create the TRAMS service that the regional delivery directorate (RDD) use to view data about academies and trusts. Initially all the services in the service delivery division (SDD) were going to build their services in Dynamics 365, however this proved difficult and didin't meet user needs. All services in SDD are now using a GDS frontend and using Dynamics 365 in the background to surface relevant data.
 
 ## E
 
-ESFA (Education and skills funding agency)
-: A database maintained by the Teacher Regulation Agency. Teachers can sign in to view their teacher record, get copies of QTS and other teaching related qualifications and update their personal and employment details.
+Education and skills funding agency (ESFA)
+: The ESFA brings is a combination of the previous Education Funding Agency (EFA) and Skills Funding Agency (SFA). It's now a single agency accountable for funding education and skills for children, young people and adults. Within the conversion service, the ESFA handles financial concerns with schools and trusts and makes sure a school's finances are in a good position to become an academy.
 
 ## F
 
 Funding Agreement (FA)
-: A database maintained by the Teacher Regulation Agency. Teachers can sign in to view their teacher record, get copies of QTS and other teaching related qualifications and update their personal and employment details.
+: The funding agreement provides the framework for academies or free schools to operate in. Funding agreements can consist of a master funding agreement (MFA) and a supplemental funding agreement (SFA).
+
+The MFA is for conversions that are forming a new multi-academy trust. The SFA is for each of the schools joining that new trust.
 
 ## G
 
-GIAS (Get information about schools)
-: [Database of trainee teachers and providers](https://www.gov.uk/guidance/database-of-trainee-teachers-and-providers-dttp).
+Get information about schools (GIAS)
+: This is a register of schools and colleges in England. You can use GIAS to search for and download information on establishments, establishment groups (such as a local authority, trust or federation) or governors. [Go to get information about schools](https://www.get-information-schools.service.gov.uk/).
 
 ## H
 
-HTB (headteacher board)
-: These apply to chemistry, languages, maths and physics. They’re sums of money you get after you’ve qualified as a teacher - they’re paid out in your second, third and fourth year of teaching. You get £2k each year - £3k in some parts of the country.
+Headteacher board (HTB)
+: Headteacher boards advise the regional schools commissioner (RSC) on decisions about conversions, transfers and significant changes. They consist of a group of people with expereince in governing and running schools and academies.
 
 HTB (headteacher board) template
-: A combination of subjects (the ‘core’ subjects, academically) that pupils can study at GCSE level. The EBacc is not a qualification in itself. The government assesses school performance based on how well pupils perform in the EBacc subjects. It’s also used as something of a marketing device - pupils are encouraged to choose these subjects.
+: This is a template the delivery officers need to fill out and take to a HTB meeting. The infomation they out into these templates is about the school and the trust and why the reason for the conversion. They will also include any risks and issues to the conversion so that the HTB can make the right decision about if the school should become an academy.
 
-HTB (headteacher board) papers or documents
-: The equivalent to ITT but specifically for teaching 0 to 5 year olds.
+Headteacher board (HTB) papers or documents
+: Once the HTB template is signed off, the HTB secretariat will prepare HTB papers to go to the HTB meeting. These can include the HTB template, a trust template and an academy order.
 
 ## K
 
@@ -70,24 +78,31 @@ Knowledge and Information Management (KIM)
 Local authority (LA)
 : Local govaernment administration, when a school converts to an academy the local authority needs to be involved so that things like land and finances can pass to the new trust that is taking on the academy.
 
-Local authority information template
+Local authority information template (LA proforma)
 : This template is sent to the local authority right at the beginning of the conversion process. The LA is expected to fill it out and send it back to the delivery officer. The delivery officer will use the information from the LA to make sure the information provided by the school is correct.
 
 Local authority maintained school (LA maintained school)
 : Maintained schools are those that are funded and controlled by the local education authority.
 
 Land questionnaire
-: This should be filled out by the school or trust's solicitors to establish how the school's land is currently managed and how it will transfer from the local authority to the trust. It needs to be completed in after the HTB meeting when the conversion has been approved.
+: This should be filled out by the school or trust's solicitors to establish how the school's land is currently managed and how it will transfer from the local authority or owner of the land to the trust. It needs to be completed in after the HTB meeting when the conversion has been approved.
 
 ## M
 
 Multi-academy trust (MAT)
 : An trust that has an agreement in place with DfE to run more than one academy
 
-MAT/sponsor template
+MAT or sponsor template
 : This is a document that contains information about a trust. It includes infromation like the trust's finances, people within the trust and any risks and issues with the trust. It is maintained by a Trust Relationship Manager.
 
 ## P
+
+Pre and post HTB
+: There are two stages to our conversion service. Pre HTB is everything that happens from when the school sends in their application form up until the HTB meeting. 
+
+Post HTB is everything that happens from when the conversion gets approved at HTB up until when the school converts to an academy. The whole process can take up to 6 months.
+
+Pre and post HTB can also be called pre and post AO (academt order).
 
 Project lead (PL)
 : Project leads handle the internal application for schools converting to academies, academies transfering to another trust and significant change applications. They are the lead contact for schools and trusts throughout the conversion process.
