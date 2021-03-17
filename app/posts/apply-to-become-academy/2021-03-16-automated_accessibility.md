@@ -33,7 +33,7 @@ When colour is used it can have potential issues for user with colour vision def
 **Projects page when green is greatly reduced**
 <img src="/images/apply-to-become-academy/automated_accessibility/CB_green_reduced_1in100.png" alt="Screenshot showing what the system look like with colour blindness - red reduced 1 in 100">
 
-**Projects page When red is greatly reduced**
+**Projects page when red is greatly reduced**
 <img src="/images/apply-to-become-academy/automated_accessibility/CB_red_greatlyreduced_1in100.png" alt="Screenshot showing what the system look like with colour blindness - green weal 1 in 20">
 
 
