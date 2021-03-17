@@ -1,7 +1,7 @@
 ---
 title: Pre HTB - Automated accessibility testing - round 1 
 description: To ensure we deliver the most accessible service we we plan to test early and often using a range of methods. This first round of testing is to get a feel of how accessible our prototype is and to identify any major issues. 
-date: 2021-03-16
+date: 2021-03-15
 eleventyComputed:
   eleventyNavigation:
     key: "{{ title }}"
@@ -10,7 +10,7 @@ eleventyComputed:
 
 ---
 ### Date the work was done
-March2021
+March 2021
 
 ## Introduction
 Developing a service that uses GDS patterns gives us confidence that we can build something accessible to all users. However, we want to be sure the amendments we make, functionality we add, and the way we develop does not incur any additional or unnecessary barriers, thus ensuring all users regardless of ability, equipment or environment can access our service. 
