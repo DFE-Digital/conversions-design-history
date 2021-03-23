@@ -2,7 +2,7 @@
 tags: false
 layout: collection
 title: Apply to Become an Academy
-description: A service for candidates to submit an application to their chosen teacher training courses
+description: An internal service for DfE colleagues to manage applications from schools applying to become academies.
 related:
   items:
   - text: Prototype
