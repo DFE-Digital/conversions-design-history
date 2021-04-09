@@ -45,7 +45,7 @@ Conversion support grant
 
 ## D
 
-DaRT
+DaRT (data and reporting tool)
 : DaRT is a system that the academy and mainted schools directorate (AMSD) caseworkers use to manage academy schools and trusts. They will record any concerns like financial or governance concerns on this system. It is due to be decommissioned soon.
 
 Delivery officer
@@ -67,7 +67,7 @@ Education and skills funding agency (ESFA)
 Financial deficit
 : Academies are expected to recover from a financial deficit within 3 years. When a school converts to an academy, the delivery officer needs to check the school does not have a fiancial defict, and if they do, they need to be able to recover in 3 years of becoming an academy. If the financial deficit is to much, the school might not be able to convert.
 
-Funding Agreement (FA)
+Funding agreement (FA)
 : The funding agreement provides the framework for academies or free schools to operate in. Funding agreements can consist of a master funding agreement (MFA) and a supplemental funding agreement (SFA).
 
 The MFA is for a trust and used in application to form a new multi-academy trust. The SFA is for each of the schools joining new or exisitng trust.
@@ -117,7 +117,7 @@ Multi-academy trust (MAT)
 Pre and post headteacher board (HTB)
 : There are two stages to our conversion service. Pre HTB is everything that happens from when the school sends in their application form up until the HTB meeting.
 
-Post HTB is everything that happens from when the conversion gets approved at HTB up until when the school converts to an academy. The whole process can take up to 6 months but sometimes longer depending on the complexities.
+Post HTB is everything that happens from when the conversion gets approved at HTB up until when the school opens as an academy. The whole process can take up to 6 months but sometimes longer depending on the complexities.
 
 Pre and post HTB can also be called pre and post AO (academy order).
 
@@ -128,6 +128,20 @@ Project lead (PL)
 : Project leads handle the internal application for schools converting to academies, academies transfering to another trust and significant change applications. They are the lead contact for schools and trusts throughout the conversion process. They can also be called 'delivery officers' or 'delivery leads'.
 
 ## R
+
+Regional delivery directorate (RDD)
+: RDD is led by the National Schools Commissioner (Dominic Herrington) and delivers services to schools. RDD operates across 8 regions in England with each region having an in depth local knowledge.
+
+Regions in the regional delivery directorate (RDD)
+: There are 8 regions in RDD, each region has a regional schools commissioner (RSC). The regions are:
+- North of England
+- East Midlands and the Humber (EMH)
+- Lancashire and West Yourshire (LWY)
+- West Midlands (WM)
+- South-West England (SW)
+- South-east England and south London (SEESL)
+- North-west London and south-central England (NWLSC)
+- East of England and Nort-east London (EENEL)
 
 Regional schools commissioner (RSC)
 : There is an RSC in each of the 8 regions of the regional delivery directorate (RDD). The RSC has the power to make decisions on if conversions, transfers and significant changes can go ahead. They will make these decisions the the HTB meetings. The RSC can also get involved in the conversion process if there are complicated issues that need to be resolved.
