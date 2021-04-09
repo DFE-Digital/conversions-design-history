@@ -136,12 +136,12 @@ Regions in the regional delivery directorate (RDD)
 : There are 8 regions in RDD, each region has a regional schools commissioner (RSC). The regions are:
 - North of England
 - East Midlands and the Humber (EMH)
-- Lancashire and West Yourshire (LWY)
+- Lancashire and West Yorkshire (LWY)
 - West Midlands (WM)
 - South-West England (SW)
-- South-east England and south London (SEESL)
-- North-west London and south-central England (NWLSC)
-- East of England and Nort-east London (EENEL)
+- South-East England and South London (SEESL)
+- North-West London and South-Central England (NWLSC)
+- East of England and North-East London (EENEL)
 
 Regional schools commissioner (RSC)
 : There is an RSC in each of the 8 regions of the regional delivery directorate (RDD). The RSC has the power to make decisions on if conversions, transfers and significant changes can go ahead. They will make these decisions the the HTB meetings. The RSC can also get involved in the conversion process if there are complicated issues that need to be resolved.
