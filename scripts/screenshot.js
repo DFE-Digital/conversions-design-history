@@ -14,7 +14,7 @@ const domain = 'http://localhost:3000'
  * ]
  */
 const paths = [
-  { title: 'Projects page', path: '/index'},
+  { title: 'Projects page', path: '/images/apply-to-bcecome-academy/index'},
   { title: 'Task list page', path: '/task_list1'},
   { title: 'Project overview summary page', path: '/overview/summary1'},
   { title: 'Set HTB date task', path: '/overview/set-htb'},
