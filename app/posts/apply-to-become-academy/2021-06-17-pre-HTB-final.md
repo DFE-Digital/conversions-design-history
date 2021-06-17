@@ -2,7 +2,14 @@
 title: Finalising pre-HTB designs
 description: Our prototype after 2 rounds of research
 date: 2021-06-17
+eleventyComputed:
+  eleventyNavigation:
+    key: "{{ title }}"
+    title: "{{ title }}"
+    parent: Apply to Become an Academy
 ---
+
+
 ### Date the work was done
 March-June 2021
 
