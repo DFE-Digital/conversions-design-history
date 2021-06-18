@@ -1,6 +1,6 @@
 ---
 title: Finalising pre-HTB designs
-description: Our prototype after 2 rounds of research
+description: Our prototype after rounds 2, 3 and 4 of research
 date: 2021-06-17
 eleventyComputed:
   eleventyNavigation:
@@ -14,7 +14,7 @@ eleventyComputed:
 March-June 2021
 
 ## Introduction
-With two rounds of concept testing and two rounds of task-based user research completed on the prototype, in addition to desk research and a period of alignment with the Academy Transfers service, we have confidence that our service will bring value and ease of use to Delivery Officers working on conversion delivery projects. As the project now moves with more velocity the into the build phase and the design team turn their attention to the post-HTB part of the service it feels right to document where we are at this point.
+With two rounds of concept testing and two rounds of task-based user research completed on the prototype, in addition to desk research and a period of alignment with the Academy Transfers service, we have confidence that our service will bring value and ease of use to Delivery Officers working on conversion delivery projects. As the project now moves with more velocity into the build phase and the design team turn their attention to the post-HTB part of the service it feels right to document where we are at this point.
 
 The prototype has developed a lot since our last post which was back when we first created our HTML prototype. The changes implemented have been made for various reasons, for example:
 
@@ -29,13 +29,13 @@ The prototype has developed a lot since our last post which was back when we fir
 ## Changes
 
 ### Changes from research
-- [See research post](/apply-to-become-academy/status_version1/)
-- LA proforma link text changed as users expected the LA proforma to be sent from the system, this was due to the word ‘send’ being used in the link and title.
+- [See research post](/apply-to-become-academy/finalising_preHTB/)
+- LA proformainformation template link text changed as users expected the LA proforma to be sent from the system, this was due to the word ‘send’ being used in the link and title.
 - Users identified a number of fields that were missing from the prototype which we have now added.
 - Budget information needed to be changed from a static to an editable table.
 - Ability to add additional information required and consequently added to all reference only sections.
 - Line length increased to aid readability on rationale summary page and final generate HTB papers screens.
-- Ability to add additional information added to MAT milage task to allow users to add time taken.
+- Ability to add additional information added to distance from the school to the tust task to allow users to add time taken.
 - URN explicitly replaces AS_ project number as users did not recognise URN in this format.
 - School application opens in a new tab to allow users to carry on from the position of the service they were in.
 - Button text changed to ‘Confirm and save’ on summary pages to instruct user on what they should do
@@ -57,7 +57,8 @@ The prototype has developed a lot since our last post which was back when we fir
 - Style change of the right-hand navigation to match.
 - Changes to some data fields as AT helped us understand some of the complexities around data mapping.
 - Character counts taken off any input boxes.
-- Summary table columns widths extended.
+- Summary table columns widths extended
+- top navigation removed.
 
 
 ### Additional work on compex journeys

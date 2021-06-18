@@ -1,5 +1,5 @@
 ---
-title: Pre HTB prototype version 1
+title: Pre-HTB prototype version 1
 description: Our first design based on user needs, our findings from private beta and implementation of GDS patterns.
 date: 2021-02-12
 eleventyComputed:

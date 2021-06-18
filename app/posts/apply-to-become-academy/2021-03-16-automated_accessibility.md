@@ -1,5 +1,5 @@
 ---
-title: Pre HTB - Automated accessibility testing - round 1 
+title: Pre-HTB - Automated accessibility testing (Round 1) 
 description: To ensure we deliver the most accessible service we we plan to test early and often using a range of methods. This first round of testing is to get a feel of how accessible our prototype is and to identify any major issues. 
 date: 2021-03-15
 eleventyComputed:
