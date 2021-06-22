@@ -29,8 +29,7 @@ The prototype has developed a lot since our last post which was back when we fir
 ## Changes
 
 ### Changes from research
-- [See research post](/apply-to-become-academy/finalising_preHTB/)
-- LA proformainformation template link text changed as users expected the LA proforma to be sent from the system, this was due to the word ‘send’ being used in the link and title.
+- LA formation template link text changed as users expected the LA proforma to be sent from the system, this was due to the word ‘send’ being used in the link and title.
 - Users identified a number of fields that were missing from the prototype which we have now added.
 - Budget information needed to be changed from a static to an editable table.
 - Ability to add additional information required and consequently added to all reference only sections.
