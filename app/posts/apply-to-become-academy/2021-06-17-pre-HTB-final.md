@@ -34,23 +34,24 @@ The prototype has developed a lot since our last post which was back when we fir
 - Budget information needed to be changed from a static to an editable table.
 - Ability to add additional information required and consequently added to all reference only sections.
 - Line length increased to aid readability on rationale summary page and final generate HTB papers screens.
-- Ability to add additional information added to distance from the school to the tust task to allow users to add time taken.
+- Ability to add additional information added to distance from the school to the trust task to allow users to add time taken.
 - URN explicitly replaces AS_ project number as users did not recognise URN in this format.
 - School application opens in a new tab to allow users to carry on from the position of the service they were in.
 - Button text changed to ‘Confirm and save’ on summary pages to instruct user on what they should do
-- Check box text changed so users understand changes can still be made after marking a taks as complete.
+- Check box text changed so users understand changes can still be made after marking a task as complete.
 - H1 changed to ‘Confirm.....’ on summary pages to instruct users on what to do.
 - Additional headings added to preview HTB papers page to make section breaks clearer.
 - Region text added to HTB dates page so users understand the context of the dates.
 
 #### MVP adjustment
-- **Help and guidance sections removed** - Although easily implemented the work to get the help and guidance content into a state where it could be used in this way is a big task.
+- **Help and guidance sections removed** - Although easily implemented, the work to get the help and guidance content into a state where it could be used in this way is a big task.
 - **Useful dates tab removed** - We realised through research there was a lot of complexities to understand different regions so this was considered not suitable for MVP.
-- **Preview HTB papers functionality removed** - Although we knew there was a need for to preview the data before generate the documents, this section felt like a duplication of the summary screen presented when the user generates the actual papers, therefore we decided to remove it – our users will tell us if we need to reinstate it.
+- **Right hand nav preview HTB papers functionality removed** - Although we knew there was a user need to preview the data before generating the actual HTB documents, this section felt like a duplication of the, now current,  summary screen presented when the user generates the actual papers, therefore we decided to remove it – our users will tell us if we need to reinstate it.
 - **Newly assigned status labels removed**
+We've removed the 'NEW' status labels for our MVP, we need to understand more about what users would find useful to highlight in this way and how it would be assigned to a new project.
 
 #### Academy transfers alignment
-- Headers and footers changed to align Academy Transfer's more mature version.
+- Headers and footers changed to align to Academy Transfer's more mature version.
 - Key stage tables changed to reflect the work and research AT have done on theirs.
 - Removal of cancel buttons on task pages.
 - Style change of the right-hand navigation to match.
@@ -65,7 +66,7 @@ The prototype has developed a lot since our last post which was back when we fir
 - Language changed on projects page to refer to Joining or Forming MAT
 
 ## Screenshots
-All these chages are depicted in the following screen, not all screenshots have been included as many will repeat the same design patterns.
+All these changes are depicted in the following screen, not all screenshots have been included as many will repeat the same design patterns.
 
 **Projects list**
 <img src="/images/apply-to-become-academy/Pre-HTB-final/projects.png" alt="Projects list">
@@ -73,13 +74,16 @@ All these chages are depicted in the following screen, not all screenshots have 
 **Task list page**
 <img src="/images/apply-to-become-academy/Pre-HTB-final/1_tasklist.png" alt="Task list page">
 
-**Trust infromation and date summary screen**
+**Local authority information screen**
+<img src="/images/apply-to-become-academy/pre-HTB-final/LA_proforma.png" alt="LA information template date screens">
+
+**Trust information and date summary screen**
 <img src="/images/apply-to-become-academy/Pre-HTB-final/trustinfo_summary.png" alt="Trust infromation and date summary screen">
 
 **Overview summary**
 <img src="/images/apply-to-become-academy/Pre-HTB-final/overview_summary.png" alt="Overview summary">
 
-**Overview summary**
+**Task - distance from school**
 <img src="/images/apply-to-become-academy/Pre-HTB-final/distance.png" alt="Milage from MAT">
 
 **OFSTED (reference only section)**
