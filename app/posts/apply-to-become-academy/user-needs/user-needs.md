@@ -11,12 +11,13 @@ eleventyComputed:
 
 # Project leads
 ## Goal
-**As a project lead I need to keep track of my teams's woerk So applications can progress and aren't delayed.**
+**As a project lead I need to complete the conversion process as efficiently and as quickly as possible.**
+
 ## PL1
-**As a project lead (PL)I need to be able to view and manage all of my conversion tasks so I can manage my time.**
+**As a project lead (PL) I need to be able to view and manage all of my conversion tasks so I can manage my time.**
 
 ## PL2
-**As a project lead (PL)I need the full picture of the applying school(s) and Trust I can make sure they are a good match.**
+**As a project lead (PL) I need the full picture of the applying school(s) and Trust I can make sure they are a good match.**
 
 ### PL2.01
 As a project lead I need to be able to analyse the submitted application and background information on the school and trust I can check that they are a good match, such as: financial position, adding ‘capacity’ to one another, sharing common ethos and aims.
@@ -34,7 +35,7 @@ As a project lead I need to check the information in the application so I can ma
 As a project lead I need to check the information given by the relevant LA (local authority) on the LA proforma	so I can include any important information in my argument for HTB (headteacher board).
 
 ### PL2.07
-As a project lead I need to feel confident that the information I'm looking at is accurate and trustworthy so I can avoid making mistakes and doubting my work and decisions
+As a project lead I need to feel confident that the information I'm looking at is accurate and trustworthy so I can avoid making mistakes and doubting my work and decisions.
 
 ### PL2.08
 As a project lead I need to chceck the MAT (multi academy trust)/Sponsor template is up to date so I can update it if it's outdated.
@@ -70,7 +71,7 @@ As a project lead I need to draft and format the HTB (headteacher board) templat
 **As a project lead I need to keep applicants informed so they know exactly what's going on and don't get any surprises.**
 
 ### PL4.01
-As a project lead I need to manage the schools and trust's expectations of the conversion timescales and dates	I can avoid conflict and frustration from the school and trust.
+As a project lead I need to manage the schools and trust's expectations of the conversion timescales and dates so I can avoid conflict and frustration from the school and trust.
 
 ## PL5
 **As a project lead I need to process the conversion project optimally (quickly, correctly) so risks are minimised.**
@@ -79,7 +80,7 @@ As a project lead I need to manage the schools and trust's expectations of the c
 As a project lead I need to be able tailor my tasks to the nature of the project so I do the right things.
 
 ### PL5.02
-As a project lead I need to now what tasks need to be completed when so	I can manage them.
+As a project lead I need to know what tasks need to be completed when so I can manage them.
 
 ### PL5.03
 As a project lead I need to understand the (legal) process (relevant to the situation) so I can ensure the application complies.
@@ -103,19 +104,19 @@ As a project lead I need to be aware of any changes to the school/trust applicat
 As a project lead I need to see what information the school sees.
 
 ### PL5.10
-As a project lead I need to have the most up-to-date-guidance soI'm confident I'm following the right process and doing the right thing.
+As a project lead I need to have the most up-to-date-guidance so i'm confident i'm following the right process and doing the right thing.
 
 ## PL6
 **As a project lead I need to ensure [schools / Trusts / others] are progressing their tasksso the application is not delayed.**
 
 ### PL6.01
-As a project lead I need to keep stakeholders informed soI can progress the application.
+As a project lead I need to keep stakeholders informed so I can progress the application.
 
 ### P6L.02
-As a project lead I need to ensure Schools / Trusts / others understand what they have to provideby when so I can progress the application.
+As a project lead I need to ensure Schools / Trusts / others understand what they have to provide by when so I can progress the application.
 
 ### PL6.03
-As a project lead I need to ESFA to understand / know what they have to provide when so I can progress the application.
+As a project lead I need ESFA to understand / know what they have to provide by when so I can progress the application.
 
 ## PL7
 **As a project lead I need to know where I am in the application process so the application can progress.**
@@ -155,7 +156,7 @@ As a project lead I need to know where to go for help if I'm stuck.
 As a team lead I need to balance resource and skills / knowledge of teamso the right PL is involved in the right work.
 
 ### TL1.01
-As a team lead I need to identify if application requires a particular skill set so I can choose the appropriate PL to manage the Application.
+As a team lead I need to identify if an application requires a particular skill set so I can choose the appropriate PL to manage the Application.
 
 ### TL1.02
 As a team lead I need to find a project lead who has capacity to process the Application so PLs are not overworked.
@@ -179,7 +180,7 @@ As a team lead I need to know all applications are progressing (or not)	I can mo
 **As a team lead I need to know all applications are progressing (or not)	I can monitor / report / unblock.**
 
 ## TL3
-**As a team lead I need to ensure the quality of work / data / evaluation 	the application is not delayed.**
+**As a team lead I need to ensure the quality of work / data / evaluation the application is not delayed.**
 
 ### TL3.01
 As a team lead I need to be confident that the application stands the best chance of success (has right data?) so the Application is not delayed.
