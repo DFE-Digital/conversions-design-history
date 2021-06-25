@@ -38,7 +38,7 @@ As a project lead I need to check the information given by the relevant LA (loca
 As a project lead I need to feel confident that the information I'm looking at is accurate and trustworthy so I can avoid making mistakes and doubting my work and decisions.
 
 ### PL2.08
-As a project lead I need to chceck the MAT (multi academy trust)/Sponsor template is up to date so I can update it if it's outdated.
+As a project lead I need to check the MAT (multi academy trust)/Sponsor template is up to date so I can update it if it's outdated.
 
 ### PL2.09
 As a project lead I need to be able to update any changes to information so it's always the most up-to-date (expected opening dates, contact details).
@@ -107,7 +107,7 @@ As a project lead I need to see what information the school sees.
 As a project lead I need to have the most up-to-date-guidance so i'm confident i'm following the right process and doing the right thing.
 
 ## PL6
-**As a project lead I need to ensure [schools / Trusts / others] are progressing their tasksso the application is not delayed.**
+**As a project lead I need to ensure [schools / Trusts / others] are progressing their tasks so the application is not delayed.**
 
 ### PL6.01
 As a project lead I need to keep stakeholders informed so I can progress the application.
