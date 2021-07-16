@@ -27,7 +27,7 @@ On this whiteboard we had labelled screenshots of each section of our prototype.
 Within each screenshot we labelled the relevant features and also labelled which user needs we felt each feature would meet.
 
 **Mapping user needs to screens**
-<img src="/images/apply-to-become-academy/mapping-mvp/mapped-overview.png" alt="Setting a RAG status for each feature">
+<img src="/images/apply-to-become-academy/mapping-mvp/mapped-overview.png" alt="mapping user needs to screens">
 
 ## Workshop one
 In this session, the team reviewed each section of the prototype and discussed whether we felt each feature was a must for MVP or up for discussion in the next workshop.
