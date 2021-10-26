@@ -1,6 +1,6 @@
 ---
 layout: collection
-title: "Converting schools to academies design history"
+title: "Managing an academy conversion design history"
 description: "An internal service for DfE colleagues to manage applications from schools applying to become academies."
 eleventyComputed:
   eleventyNavigation:

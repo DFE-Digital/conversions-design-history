@@ -1,7 +1,7 @@
 ---
 tags: false
 layout: collection
-title: Apply to Become an Academy
+title: Manage an academy conversion
 description: An internal service for DfE colleagues to manage applications from schools applying to become academies.
 related:
   items:

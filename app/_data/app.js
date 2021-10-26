@@ -1,3 +1,3 @@
 module.exports = {
-  productName: 'Conversions design history'
+  productName: 'Manage an academy conversion'
 }
