@@ -6,7 +6,7 @@ eleventyComputed:
   eleventyNavigation:
     key: "{{ title }}"
     title: "{{ title }}"
-    parent: Apply to Become an Academy
+    parent: Manage an academy conversion
 ---
 ### Date the work was done
 December – January 2021
