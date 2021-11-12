@@ -1,5 +1,5 @@
 ---
-title: Improving the project template 
+title: Improving the project template 1
 description: Delivery officers use a Word document called a project template to bring together lots of information about a school and a trust. They then present this template at an Advisory Board meeting.
 date: 2021-11-11
 eleventyComputed:
