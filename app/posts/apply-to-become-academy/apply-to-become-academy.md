@@ -16,7 +16,7 @@ related:
   - text: A to Z Glossary
     href: https://sdd-design-history.netlify.app/glossary/
   - text: Our product vision
-    href: /apply-to-become-academy/user-needs/product-vision
+    href: /apply-to-become-academy/product-vision/product-vision
   - text: All SDD design histories
     href: https://sdd-design-history.netlify.app/
   
