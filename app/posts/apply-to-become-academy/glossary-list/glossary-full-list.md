@@ -74,6 +74,9 @@ The MFA is for a trust and used in application to form a new multi-academy trust
 
 ## G
 
+Government Digital Service (GDS)
+Part of the Cabinet Office working on delivering platforms, products and services that help government to become joined-up, trusted and responsive to user needs.
+
 Get information about schools (GIAS)
 : This is a register of schools and colleges in England. You can use GIAS to search for and download information on establishments, establishment groups (such as a local authority, trust or federation) or governors. [Go to get information about schools](https://www.get-information-schools.service.gov.uk/).
 

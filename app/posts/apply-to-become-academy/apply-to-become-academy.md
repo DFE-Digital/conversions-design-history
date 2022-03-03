@@ -2,7 +2,8 @@
 tags: false
 layout: collection
 title: Manage an academy conversion
-description: An internal service for DfE colleagues to manage applications from schools applying to become academies.
+description: Our service helps create strong schools where children can thrive and teachers can prosper. It is an efficient and unified end-to-end service that will support schools becoming academies and the DfE staff that manage these academy conversions.
+The benefits of our service will include:
 related:
   items:
   - text: Prototype
@@ -14,6 +15,8 @@ related:
     href: /apply-to-become-academy/user-needs/user-needs
   - text: A to Z Glossary
     href: https://sdd-design-history.netlify.app/glossary/
+  - text: Our product vision
+    href: /apply-to-become-academy/user-needs/product-vision
   - text: All SDD design histories
     href: https://sdd-design-history.netlify.app/
   
