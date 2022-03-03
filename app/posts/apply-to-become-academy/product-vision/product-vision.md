@@ -12,6 +12,7 @@ eleventyComputed:
 Our service helps create strong schools where children can thrive and teachers can prosper.
 
 It's an efficient and unified end-to-end service that will support schools becoming academies and the DfE staff that manage these academy conversions.
+
 The benefits of our service will include:
 - giving clarity and guidance to schools and trusts at every stage of the process
 - simplifying and standardising the process for the Regional Delivery Directorate (RDD) and the Education and Skills Funding Agency (ESFA)
