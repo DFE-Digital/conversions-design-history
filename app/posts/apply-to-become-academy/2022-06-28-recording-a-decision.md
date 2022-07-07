@@ -56,6 +56,13 @@ The Manage an academy conversion team created a proof of concept to record a dec
 
 Our team (Prepare for advisory board) took this concept and made several changes:  
  
+### Added a record the decision link to the projects list
+
+We will test in user research whether users click the link here or on an individual project page. For example, St Wilfrid’s Primary School.  
+
+[![Three projects, one for St Wilfrid's Primary School, one for Bolton Spa Primary and one for Blessed John Henry Newman Roman Catholic College.](/images/apply-to-become-academy/recording-a-decision/added-a-record-the-decision-link-to-the-projects-list.png)](/images/apply-to-become-academy/recording-a-decision/added-a-record-the-decision-link-to-the-projects-list.png)
+
+&nbsp;
 
 ### Changed link text to record a decision
 
@@ -90,14 +97,6 @@ Giving users a list to select from is better practice than an open-ended [textar
 [![A page called why was this project declined? It has multiple check boxes to select from.](/images/apply-to-become-academy/recording-a-decision/added-checkboxes-for-declined-and-deferred-reasons.png)](/images/apply-to-become-academy/recording-a-decision/added-checkboxes-for-declined-and-deferred-reasons.png)
 
 [![A page called why was this project deferred? It has multiple check boxes to select from.](/images/apply-to-become-academy/recording-a-decision/added-checkboxes-for-declined-and-deferred-reasons-2.png)](/images/apply-to-become-academy/recording-a-decision/added-checkboxes-for-declined-and-deferred-reasons-2.png)
-
-&nbsp;
-
-### Added a record the decision link to the projects list
-
-We will test in user research whether users click the link here or on an individual project page. For example, St Wilfrid’s Primary School.  
-
-[![Three projects, one for St Wilfrid's Primary School, one for Bolton Spa Primary and one for Blessed John Henry Newman Roman Catholic College.](/images/apply-to-become-academy/recording-a-decision/added-a-record-the-decision-link-to-the-projects-list.png)](/images/apply-to-become-academy/recording-a-decision/added-a-record-the-decision-link-to-the-projects-list.png)
 
 &nbsp;
 
