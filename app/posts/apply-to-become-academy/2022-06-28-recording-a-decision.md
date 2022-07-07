@@ -1,6 +1,6 @@
 ---
 title: Record a decision
-description: Delivery officers (DOs) present proposed academy conversions and transfers at advisory board (AB). This is so the Regional Director (formerly the Regional Schools Commissioner) can make a decision.
+description: A delivery officer (DO) presents a proposed conversion at advisory board. The Regional Director makes a decision and the DO records the decision.
 date: 2022-06-28
 eleventyComputed:
   eleventyNavigation:
@@ -13,7 +13,7 @@ Delivery officers (DOs) present proposed academy conversions and transfers at ad
 The decision can also escalate to:  
  
 - A different Regional Director, if they do not agree with the decision made 
-- A Minister, if a school or academy challenge the Regional Director’s decision
+- A minister, if a school or academy challenges the Regional Director’s decision
 
 ## Types of decision
 There are four types of decision:  
@@ -25,20 +25,20 @@ This is the decision for most projects. Once someone approves a project, this de
 This is less common. An example condition is an improved strategy for how the trust taking on an academy will grow.
 
 ### Declined
-This is very rare. If a project is not approved, then it is often deferred for approval later. Declined decisions are also final and are only changed with a new application.
+This is very rare. If a project is not approved, then it is often deferred for approval later. Declined decisions are final and are only changed with a new application.
 
 Our analysis so far confirms there are no standard reasons for declining a project.
 
 ### Deferred
 The project is not approved and a DO brings it to a future AB once the reasons for deferral are addressed. An example is the trust managing an academy should engage more with stakeholders.
 
-Our research so far shows there is no standard set of deferral reasons.
+Our research so far shows there are no standard reasons for deferral.
 
 ## Why the decision needs recording
 
 Recording the decision is useful to the:  
 
-- Central Director (formerly the National Schools Commissioner) so they know the decisions made across the 9 regions  
+- Director General (formerly the National Schools Commissioner) so they know the decisions made across the 9 regions  
 - Department for Education, so they can report on the decisions made across the 9 regions  
 - Complete conversions, transfers and changes team who manage the [post AB process](https://sdd-design-history.netlify.app/postab/) 
 
@@ -56,16 +56,8 @@ The Manage an academy conversion team created a proof of concept to record a dec
 
 Our team (Prepare for advisory board) took this concept and made several changes:  
  
-### Removed references to the AB making the decision.
 
-Several people can make the decision, so we removed references to AB to avoid confusion. 
-
-[![A page called Record the decision in the Prepare for advisory board service.](/images/apply-to-become-academy/recording-a-decision/removed-references-to-the-ab-making-the-decision.png)](/images/apply-to-become-academy/recording-a-decision/removed-references-to-the-ab-making-the-decision.png)
-
-&nbsp;
-
-
-### Changed link text to record a decision.
+### Changed link text to record a decision
 
 The change in status of a project is the outcome of recording a decision. We made recording the decision the call to action.  
 
@@ -73,7 +65,18 @@ The change in status of a project is the outcome of recording a decision. We mad
 
 &nbsp;
 
-### Added an are you sure page if the user follows the decline journey. 
+### Removed references to the AB making the decision
+
+Several people can make the decision, so we removed references to AB to avoid confusion. 
+
+[![A page called Record the decision in the Prepare for advisory board service.](/images/apply-to-become-academy/recording-a-decision/removed-references-to-the-ab-making-the-decision.png)](/images/apply-to-become-academy/recording-a-decision/removed-references-to-the-ab-making-the-decision.png)
+
+[![A page called Who made this decision? in the Prepare for advisory board service.](/images/apply-to-become-academy/recording-a-decision/who-made-this-decision.png)](/images/apply-to-become-academy/recording-a-decision/who-made-this-decision.png)
+
+
+&nbsp;
+
+### Added an are you sure page if the user follows the decline journey 
 
 Declined cases are rare and irreversible, so we added a page to help DOs feel confident. We used a red warning button in line with the GOV.UK Design System guidance on when to use [buttons](https://design-system.service.gov.uk/components/button/).  
 
@@ -81,7 +84,7 @@ Declined cases are rare and irreversible, so we added a page to help DOs feel co
 
 &nbsp;
 
-### Added checkboxes for declined and deferred reasons.
+### Added checkboxes for declined and deferred reasons
 Giving users a list to select from is better practice than an open-ended [textarea](https://design-system.service.gov.uk/components/textarea/).  
 
 [![A page called why was this project declined? It has multiple check boxes to select from.](/images/apply-to-become-academy/recording-a-decision/added-checkboxes-for-declined-and-deferred-reasons.png)](/images/apply-to-become-academy/recording-a-decision/added-checkboxes-for-declined-and-deferred-reasons.png)
@@ -90,7 +93,7 @@ Giving users a list to select from is better practice than an open-ended [textar
 
 &nbsp;
 
-### Added a record the decision link to the projects list.
+### Added a record the decision link to the projects list
 
 We will test in user research whether users click the link here or on an individual project page. For example, St Wilfrid’s Primary School.  
 
@@ -98,7 +101,7 @@ We will test in user research whether users click the link here or on an individ
 
 &nbsp;
 
-### Updated the status labels once the DO records the decision.
+### Updated the status labels once the DO records the decision
 
 We felt it was best to use the Design System [tag component](https://design-system.service.gov.uk/components/tag/). The Government Digital Service (GDS) will update this more often than our custom made tags.  
 
@@ -110,7 +113,7 @@ We felt it was best to use the Design System [tag component](https://design-syst
 
 &nbsp;
 
-### Updated the decision tab and summary list labels.
+### Updated the decision tab and summary list labels
 
 We did this to make the decision overview easier to understand. Calling the tab and summary row decision felt confusing, so we gave them unique names.  
 
