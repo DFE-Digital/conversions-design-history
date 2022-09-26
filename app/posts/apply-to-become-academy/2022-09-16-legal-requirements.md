@@ -42,4 +42,4 @@ We included a not applicable option because not all schools link to a diocese or
 2. Learn what happens currently when the DO selects no to the following options. 
 
 - Governing body resolution 
-- Consultation npm
+- Consultation
