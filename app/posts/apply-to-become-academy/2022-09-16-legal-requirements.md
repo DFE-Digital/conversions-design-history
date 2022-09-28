@@ -25,13 +25,13 @@ DfE delivery officers (DOs) ensure that schools have given the necessary informa
 
 To make this easy for DOs, we added a legal requirements section to the conversion project task list.
 
-[![A digital task list. A link called legal requirements is highlighted.](/images/apply-to-become-academy/legal-requirements/legal-requirements-task-list.png)](/images/apply-to-become-academy/legal-requirements/confirm-legal-requirements.png)
+[![A digital task list. A link called legal requirements is highlighted.](/images/apply-to-become-academy/legal-requirements/legal-requirements-task-list.png)](/images/apply-to-become-academy/legal-requirements/legal-requirements-task-list.png)
 
 We used the summary list component so that the section is consistent with other task list pages. DOs use radio buttons to confirm if the school has given the necessary information.
 
-[![A summary list called Confirm legal requirements. It has four rows: governing body resolution, consultation, diocesan consent and foundation consent.](/images/apply-to-become-academy/legal-requirements/legal-requirements-task-list.png)](/images/apply-to-become-academy/legal-requirements/confirm-legal-requirements.png)
+[![A summary list called Confirm legal requirements. It has four rows: governing body resolution, consultation, diocesan consent and foundation consent.](/images/apply-to-become-academy/legal-requirements/confirm-legal-requirements.png)](/images/apply-to-become-academy/legal-requirements/confirm-legal-requirements.png)
 
-[![Has the school provided a governing body resolution? Yes, no, not applicable.](/images/apply-to-become-academy/recording-a-decision/added-a-record-the-decision-link-to-the-projects-list.png)](/images/apply-to-become-academy/recording-a-decision/governing-body-resolution.png)
+[![Has the school provided a governing body resolution? Yes, no, not applicable.](/images/apply-to-become-academy/legal-requirements/governing-body-resolution.png)](/images/apply-to-become-academy/legal-requirements/governing-body-resolution.png)
 
 We included a not applicable option because not all schools link to a diocese or are part of a foundation. We included not applicable in the other questions for consistency.
 
